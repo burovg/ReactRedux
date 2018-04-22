@@ -1,6 +1,6 @@
 export default  function()
 {
-    retun [
+    return [
         {title:'Java Scripts'},
         {title:'Harry pottrt'},
         {title:'The dark tower'},
